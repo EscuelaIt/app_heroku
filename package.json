@@ -1,7 +1,7 @@
 {
-  "name": "api-flow",
+  "name": "app-heroku",
   "version": "1.0.0",
-  "description": "API base tutorial",
+  "description": "Heroku tutorial",
   "main": "index.js",
   "author": {
     "name": "Alberto Basalo",
@@ -9,7 +9,7 @@
   },
   "license": "ISC",
   "repository": {
-    "url": "https://github.com/AcademiaBinaria/ApiBase",
+    "url": "https://github.com/EscuelaIt/app_heroku",
     "type": "git"
   },
   "scripts": {
